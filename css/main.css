@@ -1,0 +1,31 @@
+.ota{
+    background-image: url(/homework5/images/Rectangle\ 31.png);
+}
+.text1{
+    color: black;
+    font-weight: bolder;
+}
+.text2{
+    color: black;
+}    
+
+
+
+/* media tel format */
+
+
+@media(width: 376px) {
+   
+}
+
+@media(width: 576px) {
+ 
+}
+
+@media(width: 976px) {
+ 
+}
+
+@media(width: 1200px) {
+ 
+}
